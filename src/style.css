@@ -17,8 +17,12 @@ list-style: none;
 color: darkblue;
 margin: 0;
 padding: 0;
-text-transform: capitalize;
 
+
+}
+
+li::first-letter{
+text-transform: capitalize;
 }
 
 .weater-page-container{
