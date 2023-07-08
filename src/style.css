@@ -1,3 +1,41 @@
-h1 {
+
+h1{
+	font-size: 18px;
+	margin-bottom: 0;
+
+
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+}
+
+li {
+font-size: 12px;
+list-style: none;
+color: darkblue;
+margin: 0;
+padding: 0;
+text-transform: capitalize;
+
+}
+
+.weater-page-container{
+	margin: 30px auto;
+	max-width: 600px;
+}
+
+.weather-page {
 	color: blue;
+	background-color: aliceblue;
+	padding: 20px;
+	border: 0.2px solid lightblue;
+	border-radius: 5px;
+}
+
+.main-img{
+	width: 100px;
+
+
 }
